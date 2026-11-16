@@ -21,7 +21,7 @@
     </td>
     <td width="45%" valign="top">
       <h3>📡 Live System Telemetry</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=oscartandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oscartandi&theme=tokyonight" width="100%" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscartandi&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
     </td>
   </tr>
