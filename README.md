@@ -1,42 +1,48 @@
-<!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Risk+%26+Fraud+Analytics+%7C+SQL+%26+Python+Automation;Building+High-Signal+Detection+Pipelines;Turning+Complex+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+
+# 👋 Hi, I'm Oscar Tandi
+### Domain-Driven Risk Architect & End-to-End AI Builder
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Financial+Crime+%26+AML+Risk+Consultant;Zero-to-One+Risk+Tech+Architecture;AI-Orchestrated+Prototyping+%26+Deployment;Graph+Forensics+%2C+Anomaly+Detection+%26+SAR+Automation" alt="Typing SVG" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscartandi/)
+[![GitHub](https://img.shields.io/badge/GitHub-oscartandi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscartandi)
+
 </div>
 
-<br/>
+---
 
-<!-- 2-Column Command Center -->
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ Operational Focus</h3>
-      <p>
-        I specialize in uncovering hidden patterns in complex systems—combining <b>quantitative risk modeling</b>, <b>SQL/Python pipelines</b>, and <b>automated workflows</b> to solve high-stakes problems.
-      </p>
-      <ul>
-        <li>🔭 <b>Currently Building:</b> Automated anomaly & pattern-detection engines</li>
-        <li>🧠 <b>Core Stack:</b> Python, SQL, Excel Automation, AI Workflows</li>
-        <li>📊 <b>Focus Areas:</b> Transaction Intelligence, Behavioral Analytics, Risk Architecture</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>📡 Live System Telemetry</h3>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oscartandi&theme=tokyonight" width="100%" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscartandi&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-    </td>
-  </tr>
-</table>
+### 🧭 How I Build: Domain to Deployment
 
-<br/>
+I bridge **deep Financial Crime & AML operations expertise** with **modern AI-assisted engineering** to design, build, and deploy working risk-tech systems from scratch. Rather than treating engineering and compliance as separate silos, I translate real-world investigative workflows into end-to-end prototypes:
 
-<!-- Interactive Collapsible Architecture Diagram -->
-<details>
-  <summary><b>🔍 Click to Inspect My Investigation & Data Pipeline Architecture</b></summary>
-  <br/>
+* **🏗️ Domain-First System Architecture:** Converting complex AML, KYB, P2P/acquiring fraud, and SAR/STR investigation logic into structured HLD/LLD blueprints and data schemas.
+* **⚡ AI-Orchestrated Prototyping:** Combining domain intuition with AI coding workflows and Python frameworks to move rapidly from raw problem statement to working APIs, graph analytics, and interactive UIs.
+* **🚀 End-to-End Packaging & Shipping:** Containerizing services with Docker, wiring automated test and CI pipelines via GitHub Actions, and deploying live demos ready for stakeholder testing.
 
-```mermaid
-flowchart LR
-    A[Raw Event Streams] --> B{Anomaly Scoring Engine}
-    B -->|High Risk| C[Deep-Dive SQL / Python Forensics]
-    B -->|Normal| D[Automated Baseline Logging]
-    C --> E[Actionable Intelligence & SAR/UAR Reporting]
+---
+
+### 🛠️ Core Architecture & Deployment Stack
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Domain Focus** | AML Transaction Monitoring, SAR/STR Automation, Entity Resolution (UBO), Acquiring & Payment Fraud, KYB |
+| **Backend & Data** | Python, FastAPI, SQL, NetworkX, Pydantic, Pandas |
+| **AI & GenAI** | Google GenAI SDK (Gemini), Agentic Workflows, Structured Extraction, Prompt Orchestration |
+| **Infra & Delivery** | Docker, GitHub Actions (CI/CD), Uvicorn, Hugging Face Spaces, Mermaid Architecture Docs |
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscartandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Explore my pinned repositories below to see live prototypes across financial forensics, AML automation, and applied AI.</sub>
+</div>
